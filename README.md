@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Cassandra Coyle's Website
 
-You can use the [editor on GitHub](https://github.com/cicoyle/cicoyle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Computer Science major at Texas State University- San Marcos. I am currently working on furthering my knowledge, and polishing my skills as a software developer. I am pursuing Computer Science alongside my identical twin sister [Samantha Coyle](www.samcoyle.me). I am both excited and eager to refine my skills, and better understand how Computer Science is involved in our daily lives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use this [link](https://github.com/cicoyle/txstatecs) to view my school repository as I continue to learn and improve upon my Computer Science skills. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resume
+
+This is a list of my credentials:
+
 
 ```markdown
 Syntax highlighted code block
