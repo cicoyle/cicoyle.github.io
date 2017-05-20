@@ -5,10 +5,11 @@ I am a Computer Science major at Texas State University- San Marcos. I am curren
 Use this [link](https://github.com/cicoyle/txstatecs) to view my school repository as I continue to learn and improve upon my Computer Science skills. 
 
 
-### Resume
+### Contact
 
-This is a list of my credentials:
+Cell: (830) 285-7171
 
+Email: cassiecoyle@txstate.edu
 
 ```markdown
 Syntax highlighted code block
