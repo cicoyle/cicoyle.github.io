@@ -12,8 +12,8 @@ Cell: (830) 285-7171
 Email: cassiecoyle@txstate.edu
 
 ### Resume
-
-```**Education**
+```
+**Education**
 
 - Dean's List: Fall 2016, Spring 2017
 
