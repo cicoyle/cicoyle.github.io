@@ -13,11 +13,11 @@ Email: cassiecoyle@txstate.edu
 
 ### Resume
 ```
-#Education
+**Education**
 
 	- Dean's List: Fall 2016, Spring 2017
 
-#Work Experience
+**Work Experience**
 
 	- King Ranger Theater- Seguin, TX
 		-Concessionist, Box Office, Door
@@ -25,7 +25,7 @@ Email: cassiecoyle@txstate.edu
 
 	- Currently working on an app with my brother and sister.
 
-#Activities
+**Activities**
 
 	- Computer Science Club member
 		-Fall 2016 - present
