@@ -25,7 +25,7 @@ Email: cassiecoyle@txstate.edu
 
 	- Alpha version of investment venture
 
-	- High school job: long term popcorn saleswomen
+	- High school job: long term popcorn saleswoman
 
 	- Texas State supplemental instructor for Calculus I
 
