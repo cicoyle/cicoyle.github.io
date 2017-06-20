@@ -21,9 +21,9 @@ Email: cassiecoyle@txstate.edu
 
 **Professional Experience**
 
-	- Logistic solution for print marketing and social purposes
+	- Logistic solution for print marketing and social purposes, 2 year venture
 
-	- Alpha version of investment venture
+	- Alpha version of investment platform, 1.2 year venture
 
 	- High school job: long term popcorn saleswoman
 
@@ -39,5 +39,8 @@ Email: cassiecoyle@txstate.edu
 
 	- Bobcat Build volunteer
 		-Spring 2017
-```
 
+	- International Business Ethics Case Committee
+		-Fall 2017
+
+```
