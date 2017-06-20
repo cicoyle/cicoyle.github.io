@@ -27,6 +27,8 @@ Email: cassiecoyle@txstate.edu
 
 	- High school job: long term popcorn saleswomen
 
+	- Texas State supplemental instructor for Calculus I
+
 **Activities**
 
 	- Computer Science Club member
