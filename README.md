@@ -10,7 +10,7 @@ Works well with [this collaborator](http://www.samcoyle.me).
 
 Cell: 830 285 7171
 
-Email: cassie.coyle@gmail.com
+Email: cassie.i.coyle@gmail.com
 
 ### Resume
 
