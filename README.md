@@ -17,17 +17,21 @@ Email: cassie.i.coyle@gmail.com
 ```markdown
 **Education**
 
-	- Dean's List: Fall 2016, Spring 2017
+	- Honors College
+
+	- Dean's List: Fall 2016, Spring 2017, Fall 2017, Spring 2018
 
 **Professional Experience**
 
-	- Logistic solution for print marketing and social purposes, 2 year venture
+	- CGI Software Development/Engineering Intern
 
-	- Alpha version of investment platform, 1.2 year venture
+	- Texas State University Grader for Assembly Language and Data Structures
 
+	- Texas State University Lab Instructor for Calculus II
+
+	- Texas State Supplemental Instructor for Calculus I
+	
 	- High school job: long term popcorn saleswoman
-
-	- Texas State supplemental instructor for Calculus I
 
 **Activities**
 
@@ -40,7 +44,5 @@ Email: cassie.i.coyle@gmail.com
 	- Bobcat Build volunteer
 		-Spring 2017
 
-	- International Business Ethics Case Committee
-		-Fall 2017
 
 ```
