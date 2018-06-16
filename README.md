@@ -35,6 +35,9 @@ Email: cassie.i.coyle@gmail.com
 
 **Activities**
 
+	- Scrum Agile Certified
+		- Summer 2018
+
 	- Computer Science Club member
 		-Fall 2016 - present
 
