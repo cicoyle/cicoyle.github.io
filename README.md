@@ -39,13 +39,13 @@ Email: cassie.i.coyle@gmail.com
 		- Summer 2018
 
 	- Computer Science Club member
-		-Fall 2016 - present
+		- Fall 2016 - present
 
 	- Math Club member
-		-Spring 2016 - present
+		- Spring 2016 - present
 
 	- Bobcat Build volunteer
-		-Spring 2017
+		- Spring 2017
 
 
 ```
