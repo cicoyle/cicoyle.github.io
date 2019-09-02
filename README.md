@@ -19,11 +19,19 @@ Email: cassie.i.coyle@gmail.com
 
 	- Honors College
 
-	- Dean's List: Fall 2016, Spring 2017, Fall 2017, Spring 2018
+	- Dean's List
+
+	- 3.9 GPA 
 
 **Professional Experience**
 
-	- CGI Software Development/Engineering Intern
+	- Dell Cloud Engineer Intern on R&D team 
+
+	- Texas State Univeristy Compilers Lab Researcher
+
+	- Nokia Software Engineer Intern on Digital Labs Experience team
+
+	- CGI Software Engineer Intern on Advantage team
 
 	- Texas State University Grader for Assembly Language and Data Structures
 
@@ -35,14 +43,17 @@ Email: cassie.i.coyle@gmail.com
 
 **Activities**
 
+	- Women's Club Volleyball - President
+		- Fall 2019
+
 	- Scrum Agile Certified
 		- Summer 2018
 
-	- Computer Science Club member
+	- Computer Science Club - Member
 		- Fall 2016 - present
 
-	- Math Club member
-		- Spring 2016 - present
+	- Math Club - Member
+		- Spring 2016 - Fall 2017
 
 	- Bobcat Build volunteer
 		- Spring 2017
