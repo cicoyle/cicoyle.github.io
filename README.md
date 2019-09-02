@@ -1,8 +1,8 @@
 ## Welcome to Cassandra Coyle's Website
 
-I am a Computer Science major at Texas State University- San Marcos. I am currently working on furthering my knowledge, and polishing my skills as a software developer. I am both excited and eager to refine my skills, and better understand how Computer Science is involved in our daily lives. 
+I am a Computer Science major at Texas State University - San Marcos. I am currently working on furthering my knowledge, and polishing my skills as a software developer. I am both excited and eager to refine my skills, and better understand how Computer Science is involved in our daily lives. 
 
-Use this [link](https://github.com/cicoyle/txstatecs) to view my school repository as I continue to learn and improve upon my Computer Science skills. 
+Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my Computer Science skills. 
 
 Works well with [this collaborator](http://www.samcoyle.me).
 
@@ -11,6 +11,8 @@ Works well with [this collaborator](http://www.samcoyle.me).
 Cell: 830 285 7171
 
 Email: cassie.i.coyle@gmail.com
+
+Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 
 ### Resume
 
