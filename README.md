@@ -39,18 +39,27 @@ Email: cassie.i.coyle@gmail.com
 
 	- Texas State Supplemental Instructor for Calculus I
 	
-	- High school job: long term popcorn saleswoman
+**Conferences**
+
+	- Gophercon
+		- July 2019
+
+	- Open Source Summer + Embedded Linux Conference
+		- August 2019
 
 **Activities**
 
 	- Women's Club Volleyball - President
 		- Fall 2019
 
+	- Society of Women Engineers - Member
+		- Spring 2018 - Present
+
 	- Scrum Agile Certified
 		- Summer 2018
 
 	- Computer Science Club - Member
-		- Fall 2016 - present
+		- Fall 2016 - Present
 
 	- Math Club - Member
 		- Spring 2016 - Fall 2017
