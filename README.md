@@ -46,7 +46,7 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 	- Gophercon
 		- July 2019
 
-	- Open Source Summer + Embedded Linux Conference
+	- Open Source Summit + Embedded Linux Conference
 		- August 2019
 
 **Activities**
