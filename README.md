@@ -23,15 +23,19 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 
 	- Dean's List
 
-	- 3.9 GPA 
+	- 3.91 GPA 
 
 **Professional Experience**
+
+	- AMD Software Engineer Co-op
 
 	- Dell Cloud Engineer Intern on R&D team 
 
 	- Texas State Univeristy Compilers Lab Researcher
 
-	- Nokia Software Engineer Intern on Digital Labs Experience team
+	- Pharmacy Meals Web Dev
+
+	- Nokia Software Engineer Co-op on Digital Labs Experience team
 
 	- CGI Software Engineer Intern on Advantage team
 
@@ -42,6 +46,9 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 	- Texas State Supplemental Instructor for Calculus I
 	
 **Conferences**
+
+	- AWS Re:Invent
+		- December 2019
 
 	- Gophercon
 		- July 2019
