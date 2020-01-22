@@ -31,7 +31,7 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 
 	- Dell Cloud Engineer Intern on R&D team 
 
-	- Texas State Univeristy Compilers Lab Researcher
+	- TXST Compilers Lab Researcher
 
 	- Pharmacy Meals Web Dev
 
@@ -39,11 +39,11 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 
 	- CGI Software Engineer Intern on Advantage team
 
-	- Texas State University Grader for Assembly Language and Data Structures
+	- TXST Grader for Assembly Language and Data Structures
 
-	- Texas State University Lab Instructor for Calculus II
+	- TXST Lab Instructor for Calculus II
 
-	- Texas State Supplemental Instructor for Calculus I
+	- TXST Supplemental Instructor for Calculus I
 	
 **Conferences**
 
