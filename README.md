@@ -1,6 +1,3 @@
----
-permalink: /websiteContent.html
----
 
 ## Welcome to Cassandra Coyle's Website
 
