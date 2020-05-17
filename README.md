@@ -47,7 +47,7 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 	
 **Conferences**
 
-	- AWS Re:Invent
+	- AWS re:Invent
 		- December 2019
 
 	- Gophercon
