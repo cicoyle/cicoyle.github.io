@@ -1,3 +1,7 @@
+---
+permalink: /websiteContent.html
+---
+
 ## Welcome to Cassandra Coyle's Website
 
 I am a Computer Science major at Texas State University - San Marcos. I am currently working on furthering my knowledge, and polishing my skills as a software developer. I am both excited and eager to refine my skills, and better understand how Computer Science is involved in our daily lives. 
