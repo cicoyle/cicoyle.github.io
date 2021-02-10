@@ -1,7 +1,7 @@
 
 ## Welcome to Cassandra Coyle's Website
 
-I am a Computer Science major at Texas State University - San Marcos. I am currently working on furthering my knowledge, and polishing my skills as a software developer. I am both excited and eager to refine my skills, and better understand how Computer Science is involved in our daily lives. 
+I am a Software Engineer at Charles Schwab. I am continually working to further my knowledge and polish my skills as a software engineer. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
 
 Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my Computer Science skills. 
 
@@ -27,6 +27,8 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 	- 3.91 GPA 
 
 **Professional Experience**
+
+	- Charles Schwab Software Engineer
 
 	- AMD Software Engineer Co-op
 
