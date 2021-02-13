@@ -51,38 +51,58 @@ education:
       time: 2016 - 2020
 experiences:
     - role: Software Engineer
-      time: 2020 - Present
+      time: June 2020 - Present
       company: Charles Schwab, Austin, TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Full time venture working on the Public & Private Cloud Delivery
+        & Platform Engineering team and an internal tools building team. 
+        I helped work on some proof of concepts with kubernetes (k8s).
+        I also worked with Go & terraform to build internal custom
+        terraform providers for an internal team to use. I have been
+        fortunate to work with Infrastructure as Code (IaC) and am working
+        to automate process orchestration with the public cloud and 
+        terraform. I am working to get my Certified Kubernetes Application
+        Developer (CKAD) certificate along with the Scrum Developer 
+        certificate. I am constantly working to learn as much as I can,
+        attend as many trainings as I can, and continue to grow on my 
+        skillset.       
+          - Go, k8s, terraform, pcf, gcp, aws
+    - role: Software Engineer
+      time: Jan - May 2020
+      company: AMD, Austin, TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
+        16 week venture working on a python validation script and a
+        scalable CLI project to automate the pulling of data from
+        Snowflake. I learned about System Level Testing and shortened
+        the time engineers spent debugging diagnostic flows by creating
+        a validation script. My main project was building a Go driver CLI
+        tool from scratch to interface with Snowflake and automate the 
+        pulling of data that the engineering teams would do on a daily
+        basis. It removed the heavy lifting that engineers would do by
+        choosing specific params and running SQL queries and manually
+        transferring them to csv files to use. The Go driver automated
+        that entire daily workflow in a containerized, portable way. 
+          - Go, Python, Snowflake
+    - role: Software Engineer
+      time: May - Aug 2019
+      company: Dell Technologies, Austin, TX
+      details: |
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer
+      time: Sept - Dec 2018
+      company: Nokia, Austin, TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Software Engineer
+      time: June - Aug 2018
+      company: CGI, Belton, TX
+      details: |
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
