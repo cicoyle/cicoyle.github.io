@@ -1,9 +1,9 @@
 
 ## Welcome to Cassandra Coyle's Website
 
-I am a Software Engineer at Charles Schwab. I am continually working to further my knowledge and polish my skills as a software engineer. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
+I am a Cloud Engineer at Charles Schwab. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
 
-Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my Computer Science skills. 
+Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my skills. 
 
 Works well with [this collaborator](http://www.samcoyle.me).
 
@@ -18,6 +18,14 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 ### Resume
 
 ```markdown
+**Certificates**
+
+	- Certified Kubernetes Application Developer (CKAD)
+
+	- Hashicorp Certified: Terraform Associate
+
+	- Professional Scrum Developer
+
 **Education**
 
 	- Honors College
@@ -28,7 +36,7 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
 
 **Professional Experience**
 
-	- Charles Schwab Software Engineer
+	- Charles Schwab Cloud Engineer
 
 	- AMD Software Engineer Co-op
 
