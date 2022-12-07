@@ -1,7 +1,7 @@
 
 ## Welcome to Cassandra Coyle's Website
 
-I am a Cloud Engineer at Charles Schwab. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
+I am a Go Backend Engineer at Hashicorp. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
 
 Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my skills. 
 
@@ -18,6 +18,10 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 ### Resume
 
 ```markdown
+**Conferences**
+	- Hashitalks: Deploy 2022
+	I was the opening talk showcasing how to use Waypoint to easily deploy to all 3 main cloud providers
+
 **Certificates**
 
 	- Certified Kubernetes Application Developer (CKAD)
