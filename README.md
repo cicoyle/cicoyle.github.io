@@ -13,7 +13,7 @@ Cell: 830 285 7171
 
 Email: cassie.i.coyle@gmail.com
 
-Linkedin: [my profile](https://www.linkedin.com/in/cassandra-coyle-6878b414a/)
+Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 
 ### Resume
 
