@@ -1,9 +1,9 @@
 
 ## Welcome to Cassandra Coyle's Website
 
-I am a Go Backend Engineer at Hashicorp. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
+I'm a Go Backend Engineer at Hashicorp. I am eager to refine my skills and better the software I work with on a daily basis to better enable automated process orchestration.
 
-Use this [link](https://github.com/cicoyle) to view my repositories as I continue to learn and improve upon my skills. 
+Use this [link](https://github.com/cicoyle) to view my repositories and Open Source contributions, as I continue to learn and improve upon my skills. 
 
 Works well with [this collaborator](http://www.samcoyle.me).
 
@@ -18,8 +18,8 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 ### Resume
 
 ```markdown
-**Conferences**
-	- Hashitalks: Deploy 2022
+**Conference Presentations**
+	- [Hashitalks: Deploy 2022](https://www.youtube.com/watch?v=M90VcTPkb3w)
 	I was the opening talk showcasing how to use Waypoint to easily deploy to all 3 main cloud providers
 
 **Certificates**
@@ -30,15 +30,9 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 
 	- Professional Scrum Developer
 
-**Education**
-
-	- Honors College
-
-	- Dean's List
-
-	- 3.91 GPA 
-
 **Professional Experience**
+
+	- Hashicorp Software Engineer
 
 	- Charles Schwab Cloud Engineer
 
@@ -62,6 +56,12 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 	
 **Conferences**
 
+	- Open Source Summit
+		- May 2023
+
+	- LeadDev
+		- March 2023
+
 	- AWS re:Invent
 		- December 2019
 
@@ -71,13 +71,27 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 	- Open Source Summit + Embedded Linux Conference
 		- August 2019
 
+**Education**
+	
+	- BS in Computer Science, Applied Math minor
+
+	- Honors College
+
+	- Dean's List
+
 **Activities**
+
+	- Women Who Go Meetup Co-Organizer
+		- Oct 2022 - Present
+
+	- Volunteer: Reviewed Diversity Scholarship Applications For GopherCon EU
+		- March 2023
 
 	- Women's Club Volleyball - President
 		- Fall 2019
 
 	- Society of Women Engineers - Member
-		- Spring 2018 - Present
+		- Spring 2018 - 2020
 
 	- Scrum Agile Certified
 		- Summer 2018
