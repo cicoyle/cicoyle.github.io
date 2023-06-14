@@ -19,7 +19,7 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 
 ```markdown
 **Conference Presentations**
-	- [Hashitalks: Deploy 2022](#https://www.youtube.com/watch?v=M90VcTPkb3w)
+	- [Hashitalks Deploy 2022](https://www.youtube.com/watch?v=M90VcTPkb3w)
 	I was the opening talk showcasing how to use Waypoint to easily deploy to all 3 main cloud providers
 
 **Certificates**
@@ -107,6 +107,6 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 
 **Blog Posts**
 
-	- [Hard vs Soft Deletion Journey Using Go](#https://medium.com/@cassie.i.coyle/hard-vs-soft-deletion-journey-using-go-524510cfe6fc)
+	- [Hard vs Soft Deletion Journey Using Go](https://medium.com/@cassie.i.coyle/hard-vs-soft-deletion-journey-using-go-524510cfe6fc)
 		- Dec 2022
 ```
