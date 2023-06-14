@@ -105,5 +105,8 @@ Linkedin: [my profile](https://www.linkedin.com/in/cassie-coyle-6878b414a/)
 	- Bobcat Build volunteer
 		- Spring 2017
 
+**Blog Posts**
 
+	- [Hard vs Soft Deletion Journey Using Go](https://medium.com/@cassie.i.coyle/hard-vs-soft-deletion-journey-using-go-524510cfe6fc)
+		- Dec 2022
 ```
